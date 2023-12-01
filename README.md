@@ -2,7 +2,7 @@
 
 
 [![Blog](https://img.shields.io/website?label=portfolio-fhvr.vercel.app/&style=for-the-badge&url=https://portfolio-fhvr.vercel.app//)](https://portfolio-fhvr.vercel.app/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliano-botelho/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/giuliano_botelho/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GiulianoBotelho)
 
 ![GiulianoBotelho GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulianoBotelho&show_icons=true&theme=dracula&count_private=true)
