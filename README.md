@@ -1,7 +1,7 @@
 ### Olá, me chamo Giuliano Botelho!
 
 
-[![Blog](https://img.shields.io/website?label=portfolio-fhvr.vercel.app/&style=for-the-badge&url=https://portfolio-fhvr.vercel.app//)](portfolio-fhvr.vercel.app/)
+[![Blog](https://img.shields.io/website?label=portfolio-fhvr.vercel.app/&style=for-the-badge&url=https://portfolio-fhvr.vercel.app//)](https://portfolio-fhvr.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliano-botelho/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GiulianoBotelho)
 
