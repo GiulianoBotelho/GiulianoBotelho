@@ -19,4 +19,4 @@
 
 </div><br/>
 
-Sou apaixonado por tecnologia. Tenho me dedicado e crescido exponencialmente!
+<h2> Sou apaixonado por tecnologia. Tenho me dedicado e crescido exponencialmente! </h2>
