@@ -19,4 +19,4 @@
 
 </div><br/>
 
-Sigo me dedicando e aprendendo exponencialmente dia a dia!
+Sou apaixonado por tecnologia. Tenho me dedicado e crescido exponencialmente!
